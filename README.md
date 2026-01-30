@@ -1,7 +1,3 @@
-Aquí tienes el código exacto en formato Markdown. Para que los encabezados (#, ##, ###) se vean correctamente en GitHub, simplemente copia todo el bloque de abajo y pégalo en tu archivo README.md.
-
-Markdown
-
 # 📈 Pronóstico de Ganancias y Análisis de Rentabilidad de Productos
 
 ## 📝 Descripción del Proyecto
