@@ -44,8 +44,4 @@ El archivo `.xlsx` está organizado en las siguientes hojas:
     * Tablas Dinámicas y Campos Calculados.
     * Gráficos de Líneas de Tendencia y Áreas de Confianza.
 
----
 
-### Contacto
-* **LinkedIn:** [Tu Nombre Aquí]
-* **GitHub:** [Tu Usuario Aquí]
