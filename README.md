@@ -47,10 +47,8 @@ El archivo `.xlsx` está organizado en las siguientes hojas:
 
 ---
 
-## 🛠️ Herramientas Utilizadas
+## 🛠️ Herramienta Utilizada
 * **Microsoft Excel:**
-    * Funciones de Previsión (Forecast Sheet).
-    * Tablas Dinámicas y Campos Calculados.
-    * Gráficos de Líneas de Tendencia y Áreas de Confianza.
+
 
 
